@@ -1,6 +1,6 @@
 # SCAMSHIELD — Scam Detection Engine
 
-> **Tagline:** *“Detect Suspicious Messages. Stay One Step Ahead.”*
+> **Tagline:** *“Detect Suspicious Messages. Stay One Step Ahead.”*b
 
 ![Python Version](https://img.shields.io/badge/Python-3.13%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-Flask%203.1-black)
